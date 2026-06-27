@@ -65,8 +65,10 @@ Tours-and-Travels_Management_System/
 
 ## Authors
 
-Bhavya Modi
-Vatsal Mori
-Tanish Sanghvi
-Khushi Shah
+This project was developed by:
+
+- Bhavya Modi
+- Vatsal Mori
+- Tanish Sanghavi
+- Khushi Shah
 
