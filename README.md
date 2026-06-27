@@ -66,4 +66,8 @@ Tours-and-Travels_Management_System/
 
 ## Authors
 
-Developed as a Database Management System (DBMS) course project.
+Bhavya Modi
+Vatsal Mori
+Tanish Sanghvi
+Khushi Shah
+
