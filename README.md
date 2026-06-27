@@ -35,7 +35,6 @@ Tours-and-Travels_Management_System/
 
 - PostgreSQL
 - SQL
-- Database Normalization (BCNF)
 
 ## Database Modules
 
